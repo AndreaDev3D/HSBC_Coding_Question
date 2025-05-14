@@ -1,5 +1,7 @@
 # Weather City Search Application
 
+![Weather City Search Application](src/img/banner.png)
+
 ## Overview
 This application demonstrates a real-time city search interface that displays weather information from the OpenWeatherMap API. It includes a local proxy server solution to handle CORS (Cross-Origin Resource Sharing) issues that commonly arise in development environments.
 
